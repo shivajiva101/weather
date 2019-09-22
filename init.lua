@@ -52,7 +52,7 @@ weather.wind.i = 5
 
 -- ### DEVELOPMENT ###
 local dev = {} -- hud debugging
-local mod_debug = true
+local mod_debug = false
 
 -- REGISTRATION API
 
