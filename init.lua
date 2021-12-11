@@ -21,7 +21,7 @@ local DASVAL = 175 -- plain skybox RGB day value
 local C_WHITE = {r=240,g=240,b=255,a=229} -- normal colour
 local SKY_BLUE = {r=139, g=185, b=249, a=255}
 local SKY_GREY = {r=175, g=175, b=191, a=255}
-local SKY_BLACK = {r=0, g=0, b=16, a=255}
+-- local SKY_BLACK = {r=0, g=0, b=16, a=255}
 local SKY_WHITE = {r=255, g=255, b=255, a=255}
 local STEPS = 13 -- steps for rgb_lerp transitions
 local CDEF = {
