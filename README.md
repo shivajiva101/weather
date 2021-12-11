@@ -1,4 +1,7 @@
 # Weather
+[![Build status](https://github.com/shivajiva101/sban/workflows/Check%20&%20Release/badge.svg)](https://github.com/shivajiva101/weather/actions)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
 This mod provides diverse weather for mapgen v5, v7 and a somewhat simpler weather for v6.
 
 The reason v6 maps are handled differently is due to the inability to detect the current biome of a players position, v6 maps report 'default' for every biome.  
